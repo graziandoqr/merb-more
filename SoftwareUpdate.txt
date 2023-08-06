@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
